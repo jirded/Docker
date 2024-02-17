@@ -1,1 +1,1 @@
-# Docker
+# Basic Docker image for various projects
